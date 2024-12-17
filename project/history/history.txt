@@ -1,0 +1,206 @@
+    1  sudo apt update
+    2  sudo apt upgrade
+    3  ifconfig
+    4  sudo apt install net-tools
+    5  gcc --version
+    6  sudo apt install gcc
+    7  sudo apt install g++
+    8  gcc --version
+    9  g++ version
+   10  g++ --version
+   11  java -version
+   12  java --version
+   13  sudo apt install openjdk-8-jre-headless
+   14  jaavc
+   15  sudo apt install openjdk-8-jdk-headless
+   16  javac
+   17  java -version
+   18  clear
+   19  gedit sample.c
+   20  gcc sample.c
+   21  ./a.out
+   22  gedit swap.c
+   23  gcc swap.c
+   24  ./a.out
+   25  gedit integer.cpp
+   26  g++ integer.cpp
+   27  ./a.out
+   28  gedit HellWorld.java
+   29  javac HelloWorld.java
+   30  ls
+   31  javac HellWorld.java
+   32  java HellWorld
+   33  java HellWorld.java
+   34  gedit GFG.java
+   35  javac GFG.java
+   36  java GFG.java
+   37  java GFG
+   38  javac HellWorld.java
+   39  java HellWorld
+   40  javac HelloWorld.java
+   41  java HelloWorld
+   42  gedit HelloWorld.java
+   43  javac HelloWorld.java
+   44  java Helloworld
+   45  java Helloworld.java
+   46  javac
+   47  java -version
+   48  javac GFG.java
+   49  java GFG
+   50  cd Downloads/
+   51  ls
+   52  javac DigitalClock.java
+   53  appletviewer DigitalClock
+   54  sudo apt install openjdk-8-jdk
+   55  javac DigitalClock.java
+   56  appletviewer DigitalClock
+   57  javac DigitalClock.java
+   58  cd Downloads/
+   59  javac DigitalClock.java
+   60  appletviewer DigitalClock
+   61  appletviewer DigitalClock.java
+   62  javac GraphicsDemo.java
+   63  appletviewer GraphicsDemo.java
+   64  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb~
+   65  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb~
+   66  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   67  sudo dpkg -i google-chrome-stable_current_amd64.deb
+   68  ifconfig
+   69  su administrator
+   70  sudo bash
+   71  git
+   72  sudo apt update
+   73  clear
+   74  cd
+   75  cd /
+   76  ls
+   77  git config --list
+   78  cd cloud
+   79  cd /
+   80  ls
+   81  cd home
+   82  ls
+   83  cd skacas
+   84  cd administrator
+   85  ls
+   86  cd Desktop
+   87  ls
+   88  cd cloud
+   89  cd Desktop
+   90  ls
+   91  mkdir cloud
+   92  ls
+   93  git --version
+   94  sudo apt install git
+   95  git --version
+   96  cd cloud
+   97  git init
+   98  ls
+   99  clear
+  100  git init
+  101  git config --global user.name "saran"
+  102  git config --list 
+  103  git config --global init.defaultbranch main 
+  104  git config --global init.defaultBranch main 
+  105  git config --list 
+  106  git config --global user.email 24bsai250saranl@skacas.ac.in
+  107  list
+  108  git config --global user.email 24bsai250saranl@skacas.ac.in
+  109  git config --list 
+  110  git config --global core.eol lf
+  111  lf
+  112  git config --global core.eol lf
+  113  git config --list
+  114  git config --global core.ignorecase true 
+  115  git config --list
+  116  git config --global core.autocrlf input 
+  117  git config --list
+  118  ls
+  119  git clone https://github.com/SARANRAStA123456/-.git
+  120  ls
+  121  cd democloud1
+  122  cd democloud1 
+  123  cd democloud1-
+  124  ls
+  125  git add file.txt 
+  126  cat < file.txt 
+  127  cat >  file.txt 
+  128  git commit -m "first commit" 
+  129  git status 
+  130  git add file.txt
+  131  git status
+  132  git commit -m "second commit"
+  133  git push origin main 
+  134  git remote set-url origin "http://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@github.com/SARANRAStA123456/democloud-" 
+  135  git remote set-url origin "http://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@github.com/SARANRAStA123456/democloud1-" 
+  136  git remote -v
+  137  git status 
+  138  git push origin main 
+  139  git clone\ set-url origin "http://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@github.com/SARANRAStA123456/democloud1-" 
+  140  git clone set-url origin "http://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@github.com/SARANRAStA123456/democloud1-" 
+  141  git clone "http://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@github.com/SARANRAStA123456/democloud1-" 
+  142  git push origin main 
+  143  cd ..
+  144  cd test 
+  145  touch test.txt 
+  146  cat > text.txt
+  147  git status
+  148  git commit -m "second commit"
+  149  git config --list
+  150  git clone "http://github.com/SARANRAStA123456/gittest.git" 
+  151  ls
+  152  cd gittest 
+  153  touch file.txt
+  154  ls
+  155  git add file.txt 
+  156  cat > file.txt 
+  157  git commit -m "first commit"
+  158  git status 
+  159  git add file.txt 
+  160  git status 
+  161  git commit -m "second commit"
+  162  git add file.txt 
+  163  git status 
+  164  git remote set-url origin "http://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@github.com/SARANRAStA123456/gittest" 
+  165  git status 
+  166  git remote set-url origin "http://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@github.com/SARANRAStA123456/gittest" 
+  167  git push origin main 
+  168  cd /
+  169  ls
+  170  cd home
+  171  ls
+  172  cd administrator
+  173  ls
+  174  cd Desktop
+  175  ls
+  176  cd cloud
+  177  touch file.txt
+  178  history
+  179  cd 
+  180  cd /
+  181  cd home
+  182  cd administrator
+  183  cd webserver
+  184  cd project
+  185  cd webserver
+  186  history
+  187  git 
+  188  gitup
+  189  nano
+  190  vim
+  191  sujith 
+  192  cd /
+  193  cd home
+  194  cd administrator
+  195  cd project
+  196  cd webserver
+  197  git config user.name "index.html"
+  198  github
+  199  ll file.txt
+  200  ll index.html
+  201  cd administrator
+  202  cd /
+  203  cd home 
+  204  cd administrator
+  205  history
+
